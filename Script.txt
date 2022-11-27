@@ -5,4 +5,3 @@ print("- 👋 Hi, I’m @FORTNATE228
 - 📫 How to reach me ...
 - :) я весёлый
 ");
-print("Я ИГРАЮ В FORTNATE, GEOMETRY DASH, STANDOFF2, PUBGE <")
